@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lagmarus or Laz
+- 👀 I’m interested in ECU development (in the future) 
+- 🌱 I’m currently learning data strctures and C based languages.
+- 💞️ I’m looking to collaborate on any beginner projects to gain a wide range of experience.
+- 📫 How to reach me: torpylazarus@gmail.com
